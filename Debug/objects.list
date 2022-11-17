@@ -1,0 +1,8 @@
+"./Core/Src/CMSIS_F031.o"
+"./Core/Src/SMA_filter_lib.o"
+"./Core/Src/lcd1602_i2c_lib.o"
+"./Core/Src/main.o"
+"./Core/Src/syscalls.o"
+"./Core/Src/sysmem.o"
+"./Core/Src/system_stm32f0xx.o"
+"./Core/Startup/startup_stm32f031k6tx.o"

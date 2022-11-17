@@ -1,0 +1,15 @@
+../Drivers/CMSIS/core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+../Core/Src/CMSIS_F031.c:9:6:CMSIS_SW_Debug_Init	8	static
+../Core/Src/CMSIS_F031.c:14:6:CMSIS_I2C1_PIN_Init	8	static
+../Core/Src/CMSIS_F031.c:25:6:CMSIS_SET_PB3_OUTPUT_Push_Pull	8	static
+../Core/Src/CMSIS_F031.c:32:6:CMSIS_SET_PB4_OUTPUT_Push_Pull	8	static
+../Core/Src/CMSIS_F031.c:39:6:CMSIS_RCC_Init_48MHz	8	static
+../Core/Src/CMSIS_F031.c:55:6:CMSIS_Sys_Tick_Init	8	static
+../Core/Src/CMSIS_F031.c:63:6:Delay_ms	16	static
+../Core/Src/CMSIS_F031.c:68:6:SysTick_Handler	8	static
+../Core/Src/CMSIS_F031.c:75:6:CMSIS_ADC_DMA_Init	8	static
+../Core/Src/CMSIS_F031.c:108:6:CMSIS_SET_PA1_ADC_IN1	8	static
+../Core/Src/CMSIS_F031.c:113:6:CMSIS_SET_PA2_ADC_IN2	8	static
+../Core/Src/CMSIS_F031.c:118:6:CMSIS_I2C1_Init	8	static
+../Core/Src/CMSIS_F031.c:132:6:CMSIS_SET_PB9_I2C1_SCL	8	static
+../Core/Src/CMSIS_F031.c:137:6:CMSIS_SET_PB10_I2C1_SDA	8	static
